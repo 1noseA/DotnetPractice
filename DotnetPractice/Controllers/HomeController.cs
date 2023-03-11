@@ -15,7 +15,6 @@ namespace DotnetPractice.Controllers
 
         public IActionResult Index()
         {
-            Console.WriteLine("Test");
             return View();
         }
 
